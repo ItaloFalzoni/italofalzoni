@@ -6,4 +6,4 @@
  - I’m looking to collaborate on open source projects using JavaScript.
  - I can help it Web Desing, CSS and HTML
 
-Contact: Linkedin https://www.linkedin.com/in/%C3%ADtalo-falzoni-1a285b182/
+Contact: Linkedin https://www.linkedin.com/in/italofalzoni/
